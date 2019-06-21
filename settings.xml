@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project activeEnvironment="Default environment" name="Authentication Sample Project" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" id="7d1441f9-9de0-4723-9e80-4c99b2fd5a76" lastOpened="2017-01-19T15:00:15.129+01:00" encryptionMode="Not encrypted" compositeProjectFormat="1.3" updated="2.5.0-SNAPSHOT" xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project activeEnvironment="Default environment" name="Authentication Sample Project" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" id="7d1441f9-9de0-4723-9e80-4c99b2fd5a76" lastOpened="2017-01-19T15:00:15.129+01:00" encryptionMode="Not encrypted" compositeProjectFormat="1.3" updated="2.7.1-SNAPSHOT" xmlns:con="http://eviware.com/soapui/config">
   <con:description>Demonstrates the use of OAuth 2.0 authentication when logging in to web services.</con:description>
-  <con:settings/>
+  <con:settings>
+    <con:setting id="7d1441f9-9de0-4723-9e80-4c99b2fd5a76fileName">Git</con:setting>
+  </con:settings>
   <con:vcsConfiguration>
     <con:vcsName>Git</con:vcsName>
     <con:repositoryIdentifier>https://github.com/SmartBearTester/Repo-many-branches.git</con:repositoryIdentifier>
